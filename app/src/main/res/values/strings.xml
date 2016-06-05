@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">testCityLianDong</string>
+    <color name="Title_Color">#f0ab12</color>
+    <color name="white">#FFFFFF</color>
+</resources>
