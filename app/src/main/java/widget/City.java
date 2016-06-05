@@ -38,7 +38,7 @@ public class City implements Parcelable{
 	public void setDistrict(String district) {
 		this.district = district;
 	}
-
+ //1111111qqqqqqqqqqqqqqqqqqq
 	public String getProvinceCode() {
 		return provinceCode;
 	}
