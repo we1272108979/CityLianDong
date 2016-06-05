@@ -39,7 +39,7 @@ public class City implements Parcelable{
 		this.district = district;
 	}
  //1111111qqqqqqqqqqqqqqqqqqq
-	//测试push
+
 
 
 	public String getProvinceCode() {
